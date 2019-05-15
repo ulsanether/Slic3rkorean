@@ -2,8 +2,9 @@
 Slic3r한국어 번역 페이지 입니다.
 영어 못해요. 그래도 그냥 합니다. 
 
-
-
+<po>
+  <po>
+<po>
 
 오류에 대한 수정은 아니면 이슈 페이지에 남기면 남기면 됩니다.
 아니면 직접 수정하셔도 무방합니다.
@@ -14,7 +15,9 @@ https://blog.naver.com/hangmini12
 crowdin 페이지 (2019년 기준 더 이상 쓰지 않습니다.)
 https://crowdin.com/project/slic3rkorean/ko#
 
-
+<po>
+  <po>
+    <po>
 
 
 전체 다운을 받아
@@ -24,7 +27,13 @@ slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 �
 한번 더 튕길 수가 있습니다. 그럴땐 다시 실행 시키면 정상 동작 합니다. 
 
 
-
+<po>
+  <po>
+    <po>
+      <po>
+        <po>
+          <po>
+            <po>
 
 
 
