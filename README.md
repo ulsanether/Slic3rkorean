@@ -1,20 +1,20 @@
 # Slic3rkorean
+
+<div>
 <p>Slic3r한국어 번역 페이지 입니다.
 영어 못해요. 그래도 그냥 합니다. </p>
-          <ul>
-            <p>오류에 대한 수정은 아니면 이슈 페이지에 남기면 남기면 됩니다.</p>
-          <pr>
-            <li>아니면 직접 수정하셔도 무방합니다.</li>
-            <li>
-              <h2<블로그</h2>
+ 
+ <p>오류에 대한 수정은 아니면 이슈 페이지에 남기면 남기면 됩니다.</p>
+ <li>아니면 직접 수정하셔도 무방합니다.</li>
+ <h2>블로그</h2>
  <li>https://blog.naver.com/hangmini12</li>
 
  <h2>crowdin 페이지 (2019년 기준 더 이상 쓰지 않습니다.)</h2>
  <li>https://crowdin.com/project/slic3rkorean/ko#</li>
 
 </ul>
-
-전체 다운을 받아
+</div>
+<h3>전체 다운을 받아</h3>
 
 prusaslicer_ko_KR 폴더 안의 파일들을 복사 합니다. 그 전의 버전 파일은 KO폴더에 존재 합니다.
 
