@@ -15,9 +15,6 @@ Slic3r한국어 번역 페이지 입니다.
 
 *
 
-
-
-
 *
 
 오류에 대한 수정은 아니면 이슈 페이지에 남기면 남기면 됩니다.
@@ -26,10 +23,6 @@ Slic3r한국어 번역 페이지 입니다.
 *
 
 *
-
-
-
-
 
 블로그
 https://blog.naver.com/hangmini12
@@ -41,8 +34,11 @@ https://crowdin.com/project/slic3rkorean/ko#
 
 *
 
-
 전체 다운을 받아
+
+prusaslicer_ko_KR 폴더 안의 파일들을 복사 합니다. 그 전의 버전 파일은 KO폴더에 존재 합니다.
+
+
 variable_layer_height_tooltip.png 파일은 resources\icons 폴더에 복사.
 PrusaSlicer.mo 파일은 \Slic3rPE\resources\localization\ko_KR 폴더로 복사 합니다.
 
