@@ -1,11 +1,6 @@
 # Slic3rkorean
 <p>Slic3r한국어 번역 페이지 입니다.
 영어 못해요. 그래도 그냥 합니다. </p>
-<PR>
-  <PR>
-    <PR>
-      <PR>
-        <PR>
           <ul>
             <p>오류에 대한 수정은 아니면 이슈 페이지에 남기면 남기면 됩니다.</p>
           <pr>
@@ -32,22 +27,6 @@ slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 �
 
 ![](https://github.com/ulsanether/Slic3rkorean/blob/master/7.PNG)
 ![](https://github.com/ulsanether/Slic3rkorean/blob/master/8.PNG)
-
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-
-
 
 
 
