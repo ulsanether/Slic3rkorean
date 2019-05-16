@@ -16,14 +16,14 @@
 </div>
 <h3>전체 다운을 받아</h3>
 
-<ol>prusaslicer_ko_KR 폴더 안의 파일들을 복사 합니다. 그 전의 버전 파일은 KO폴더에 존재 합니다.</ol>
+<ol><li>prusaslicer_ko_KR 폴더 안의 파일들을 복사 합니다. 그 전의 버전 파일은 KO폴더에 존재 합니다.</li>
 
 
-<ol>variable_layer_height_tooltip.png 파일은 resources\icons 폴더에 복사.</ol>
-<ol>PrusaSlicer.mo 파일은 \Slic3rPE\resources\localization\ko_KR 폴더로 복사 합니다.</ol>
+<li>variable_layer_height_tooltip.png 파일은 resources\icons 폴더에 복사.</li>
+<li>PrusaSlicer.mo 파일은 \Slic3rPE\resources\localization\ko_KR 폴더로 복사 합니다.</li>
 
-<ol>slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 변경 합니다. 재시작.
-한번 더 튕길 수가 있습니다. 그럴땐 다시 실행 시키면 정상 동작 합니다. </ol>
+<li>slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 변경 합니다. 재시작.
+한번 더 튕길 수가 있습니다. 그럴땐 다시 실행 시키면 정상 동작 합니다.</li></ol>
 
 ![](https://github.com/ulsanether/Slic3rkorean/blob/master/7.PNG)
 ![](https://github.com/ulsanether/Slic3rkorean/blob/master/8.PNG)
