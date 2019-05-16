@@ -35,7 +35,7 @@ slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 �
 한번 더 튕길 수가 있습니다. 그럴땐 다시 실행 시키면 정상 동작 합니다. 
 
 ![](https://github.com/ulsanether/Slic3rkorean/blob/master/7.PNG)
-
+![](https://github.com/ulsanether/Slic3rkorean/blob/master/8.PNG)
 
 
 *
