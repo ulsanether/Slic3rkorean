@@ -35,7 +35,7 @@
 <h1><li>2019년 5월 16일 기준</li></h1>
 <h6><과거 버전을 닫습니다. 아래 글들은 참조 되지 않습니다.>
 
-Slic3rPE.mo 이름의 파일을 더 이상 쓰지 않습니다. 이 이름의 파일은
+<del>Slic3rPE.mo 이름의 파일을 더 이상 쓰지 않습니다. 이 이름의 파일은
 
 Slic3rPE-1.42.0-beta2+win64-full-201904140830 버전의 파일까지만 유효 합니다. 
 
@@ -56,4 +56,4 @@ Slic3rPE.MO : 언어 패치 파일.
 
 <쓰지 않음>
 crowdin 페이지에서 더 나은 번역으로 수정 가능합니다. 
-https://crowdin.com/project/slic3rkorean/ko#</h6>
+https://crowdin.com/project/slic3rkorean/ko#</h6></del>
