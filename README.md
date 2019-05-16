@@ -6,26 +6,18 @@ Slic3r한국어 번역 페이지 입니다.
     <PR>
       <PR>
         <PR>
+          <ul>
           <li>오류에 대한 수정은 아니면 이슈 페이지에 남기면 남기면 됩니다.</li>
           <pr>
             <li>아니면 직접 수정하셔도 무방합니다.</li>
             <li>
-            
-            </li>
+            <li>블로그</li>
+ <li>https://blog.naver.com/hangmini12</li>
 
-*
+ <li>crowdin 페이지 (2019년 기준 더 이상 쓰지 않습니다.)</li>
+ <li>https://crowdin.com/project/slic3rkorean/ko#</li>
 
-*
-
-블로그
-https://blog.naver.com/hangmini12
-
-crowdin 페이지 (2019년 기준 더 이상 쓰지 않습니다.)
-https://crowdin.com/project/slic3rkorean/ko#
-
-*
-
-*
+</ul>
 
 전체 다운을 받아
 
