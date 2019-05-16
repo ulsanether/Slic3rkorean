@@ -1,6 +1,6 @@
 # Slic3rkorean
-Slic3r한국어 번역 페이지 입니다.
-영어 못해요. 그래도 그냥 합니다. 
+<p>Slic3r한국어 번역 페이지 입니다.
+영어 못해요. 그래도 그냥 합니다. </p>
 <PR>
   <PR>
     <PR>
@@ -11,10 +11,10 @@ Slic3r한국어 번역 페이지 입니다.
           <pr>
             <li>아니면 직접 수정하셔도 무방합니다.</li>
             <li>
-            <li>블로그</li>
+              <h2<블로그</h2>
  <li>https://blog.naver.com/hangmini12</li>
 
- <li>crowdin 페이지 (2019년 기준 더 이상 쓰지 않습니다.)</li>
+ <h2>crowdin 페이지 (2019년 기준 더 이상 쓰지 않습니다.)</h2>
  <li>https://crowdin.com/project/slic3rkorean/ko#</li>
 
 </ul>
