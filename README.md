@@ -37,23 +37,22 @@
 
 <del>Slic3rPE.mo 이름의 파일을 더 이상 쓰지 않습니다. 이 이름의 파일은
 
-Slic3rPE-1.42.0-beta2+win64-full-201904140830 버전의 파일까지만 유효 합니다. 
+<del>Slic3rPE-1.42.0-beta2+win64-full-201904140830 버전의 파일까지만 유효 합니다. 
 
 
-현재 100%
-1차 수정전
+<del>현재 100%
 
-전체 다운을 받아
-내부의 ko_KR 폴더만 C:\Program Files\Prusa3D\Slic3rPE\resources\localization 폴더로 복사 합니다.
-slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 변경 합니다. 재시작.
-한번 더 튕길 수가 있습니다. 그럴땐 다시 실행 시키면 정상 동작 합니다. 
+<del>전체 다운을 받아
+<del>내부의 ko_KR 폴더만 C:\Program Files\Prusa3D\Slic3rPE\resources\localization 폴더로 복사 합니다.
+<del>slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 변경 합니다. 재시작.
+<del>한번 더 튕길 수가 있습니다. 그럴땐 다시 실행 시키면 정상 동작 합니다. 
 
-<더이상 쓰지 않음>
-파일 설명
-Slic3rPE.PO : POEDIT에서 수정 가능한 원본 번역 파일.
-Slic3rPE.MO : 언어 패치 파일. 
+<del><더이상 쓰지 않음>
+<del>파일 설명
+<del>Slic3rPE.PO : POEDIT에서 수정 가능한 원본 번역 파일.
+<del>Slic3rPE.MO : 언어 패치 파일. 
 
 
-<쓰지 않음>
-crowdin 페이지에서 더 나은 번역으로 수정 가능합니다. 
-https://crowdin.com/project/slic3rkorean/ko#</h6></del>
+<del><쓰지 않음>
+<del>crowdin 페이지에서 더 나은 번역으로 수정 가능합니다. 
+<del>https://crowdin.com/project/slic3rkorean/ko#</h6></del>
