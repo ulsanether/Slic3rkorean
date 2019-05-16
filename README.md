@@ -43,8 +43,9 @@ https://crowdin.com/project/slic3rkorean/ko#
 
 
 전체 다운을 받아
+variable_layer_height_tooltip.png 파일은 resources\icons 폴더에 복사.
+PrusaSlicer.mo 파일은 \Slic3rPE\resources\localization\ko_KR 폴더로 복사 합니다.
 
-PrusaSlicer.mo 파일을  C:\Program Files\Prusa3D\Slic3rPE\resources\localization\ko_KR 폴더로 복사 합니다.
 slic3r프로그램 실행후 사용자 언어 설정에 언어를 KOREAN으로 변경 합니다. 재시작.
 한번 더 튕길 수가 있습니다. 그럴땐 다시 실행 시키면 정상 동작 합니다. 
 
