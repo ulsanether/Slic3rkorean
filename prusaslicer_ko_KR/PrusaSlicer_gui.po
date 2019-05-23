@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: slic3rkorean\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-09 14:34+0200\n"
-"PO-Revision-Date: 2019-05-24 00:03+0900\n"
+"PO-Revision-Date: 2019-05-23 23:51+0900\n"
 "Last-Translator: lee hak-min <hangmini12@naver.com>\n"
 "Language-Team: ulsanether\n"
 "Language: ko_KR\n"
@@ -671,11 +671,11 @@ msgstr ""
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:35 src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:195
 msgid "Rotate lower part upwards"
-msgstr ""
+msgstr "아래쪽 부분을 위쪽으로 회전"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:36 src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:198
 msgid "Perform cut"
-msgstr ""
+msgstr "절단 실행"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:43
 msgid "Cut object:"
@@ -687,15 +687,15 @@ msgstr "자르기 [C]"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:188 src/libslic3r/PrintConfig.cpp:3006
 msgid "Cut"
-msgstr ""
+msgstr "자르기"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:193
 msgid "Keep upper part"
-msgstr ""
+msgstr "상위 부분 유지"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:194
 msgid "Keep lower part"
-msgstr ""
+msgstr "낮은 부분 유지"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoFlatten.cpp:32
 msgid "Place on face"
@@ -751,43 +751,43 @@ msgstr "새 고립 영역에서 잠금 지원"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:860 src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1249
 msgid "Remove selected points"
-msgstr ""
+msgstr "선택한 점 제거"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:864 src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:921
 msgid "Remove all points"
-msgstr ""
+msgstr "모든 점 제거"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:869 src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1252
 msgid "Apply changes"
-msgstr ""
+msgstr "변경 내용을 적용"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:874 src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1253
 msgid "Discard changes"
-msgstr ""
+msgstr "변경사항을 취소"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:881
 msgid "Minimal points distance"
-msgstr ""
+msgstr "최소 포인트 거리: "
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:882 src/libslic3r/PrintConfig.cpp:2534
 msgid "Support points density"
-msgstr ""
+msgstr "지원 포인트 밀도"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:911 src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1255
 msgid "Auto-generate points"
-msgstr ""
+msgstr "점 자동 생성"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:917
 msgid "Manual editing"
-msgstr ""
+msgstr "수동 편집"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:934
 msgid "Clipping of view"
-msgstr ""
+msgstr "클립핑 보기"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1007
 msgid "SLA Support Points"
-msgstr ""
+msgstr "SLA 지원 포인트"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:767
 msgid "Do you want to save your manually edited support points ?\n"
